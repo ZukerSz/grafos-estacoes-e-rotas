@@ -1,3 +1,0 @@
-C:/Users/ZukerrSz/Documents/VSCode/ED2_Teoria_dos_Grafos/cmake-build-debug/CMakeFiles/ProjetoRotas.dir
-C:/Users/ZukerrSz/Documents/VSCode/ED2_Teoria_dos_Grafos/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ZukerrSz/Documents/VSCode/ED2_Teoria_dos_Grafos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
